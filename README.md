@@ -49,14 +49,4 @@ src/
 **Why this structure?**  
 To keep components modular, pages isolated, and everything neat and scalable.
 
----
-
-# Setup Instructions
-
-Follow these simple steps to run the project locally:
-
-1. **Clone the repo**
-```bash
-git clone https://github.com/yourusername/admin-dashboard.git
-cd admin-dashboard
 
